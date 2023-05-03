@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.CPP": "cpp",
+        "BINESEAR.C": "cpp",
+        "PROG1.C": "cpp",
+        "LINE_L~1.C": "cpp",
+        "BINETREE.C": "cpp",
+        "POSTFIXE.C": "cpp",
+        "STACK.C": "cpp",
+        "SINGLYLL.C": "cpp",
+        "SHELLSOR.C": "cpp",
+        "SELESORT.C": "cpp",
+        "SEARCH3.C": "cpp",
+        "SEARCH2.C": "cpp",
+        "REVRSELL.C": "cpp",
+        "QUISORT3.C": "cpp",
+        "QUEUEARR.C": "cpp",
+        "QUEPRG2.C": "cpp",
+        "PRIOQUE1.C": "cpp"
+    }
+}
